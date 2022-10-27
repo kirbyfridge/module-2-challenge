@@ -30,10 +30,11 @@ than shown in the preview.
 
 You can view my coding process (however clumsy haha) at the link below.
 
-https://github.com/kirbyfridge/module-2-challenge
+https://github.com/kirbyfridge/professional-portfolio/
+
 
 ### GitHub Pages 
 
 You can view the functional webpage at the link below.
 
-https://kirbyfridge.github.io/module-2-challenge/
+https://kirbyfridge.github.io/professional-portfolio/
